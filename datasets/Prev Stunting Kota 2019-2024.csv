@@ -1,0 +1,542 @@
+id,provinsi,Kabupaten/Kota,2019,2021,2022,2023,2024
+"11,01",Aceh,Aceh Selatan,31.15,"27,3",34.8,40.2,34.2
+"11,02",Aceh,Aceh Tenggara,42.83,"34,1",36.7,32.9,30.9
+"11,03",Aceh,Aceh Timur,25.5,"38,2",33.6,29.7,36.7
+"11,04",Aceh,Aceh Tengah,42.87,"34,3",32.0,23.6,31.4
+"11,05",Aceh,Aceh Barat,40.79,"27,4",30.4,33.4,25.6
+"11,06",Aceh,Aceh Besar,43.36,"32,4",27.0,30.1,32.3
+"11,07",Aceh,Pidie,27.87,"39,3",27.8,29.5,32.6
+"11,08",Aceh,Aceh Utara,42.64,"38,8",38.3,25.2,19.2
+"11,09",Aceh,Simeulue,28.21,"25,9",37.2,30.7,25.5
+"11,1",Aceh,Aceh Singkil,37.28,"29,6",34.0,34.1,34.2
+"11,11",Aceh,Bireuen,32.88,"24,3",23.4,32.9,27.1
+"11,12",Aceh,Aceh Barat Daya,34.03,"33,2",35.2,27.9,36.2
+"11,13",Aceh,Gayo Lues,29.16,"42,9",34.6,15.4,20.6
+"11,14",Aceh,Aceh Jaya,44.82,"33,7",19.9,34.0,31.0
+"11,15",Aceh,Nagan Raya,26.46,"32,5",28.8,31.6,35.5
+"11,16",Aceh,Aceh Tamiang,38.68,"30,8",27.4,35.9,27.4
+"11,17",Aceh,Bener Meriah,28.15,40,37.0,32.2,32.8
+"11,18",Aceh,Pidie Jaya,26.49,29,37.8,29.4,31.6
+"11,71",Aceh,Kota Banda Aceh,27.86,"23,4",25.1,21.7,23.7
+"11,72",Aceh,Kota Sabang,30.59,"23,8",23.4,25.6,23.4
+"11,73",Aceh,Kota Lhokseumawe,18.75,"27,4",28.1,20.7,20.8
+"11,74",Aceh,Kota Langsa,35.44,"25,5",22.1,25.6,15.6
+"11,75",Aceh,Kota Subulussalam,41.81,"41,8",47.9,29.6,27.5
+"12,01",Sumatera Utara,Tapanuli Tengah,36.32,"25,3",30.5,23.8,32.3
+"12,02",Sumatera Utara,Tapanuli Utara,42.19,"26,7",27.4,27.4,32.5
+"12,03",Sumatera Utara,Tapanuli Selatan,23.8,"30,8",39.4,15.6,6.6
+"12,04",Sumatera Utara,Nias,56.21,"32,1",25.3,20.3,26.1
+"12,05",Sumatera Utara,Langkat,18.21,"31,5",18.6,16.9,16.0
+"12,06",Sumatera Utara,Karo,38.46,"25,3",24.9,24.7,17.6
+"12,07",Sumatera Utara,Deli Serdang,30.97,"12,5",13.9,33.8,19.6
+"12,08",Sumatera Utara,Simalungun,32.38,28,17.4,17.7,26.0
+"12,09",Sumatera Utara,Asahan,28.58,"18,9",15.3,11.0,13.9
+"12,1",Sumatera Utara,Labuhanbatu,,27,,,25.3
+"12,11",Sumatera Utara,Dairi,39.27,"34,2",28.6,32.6,29.0
+"12,12",Sumatera Utara,Toba,,"24,8",24.8,28.0,27.1
+"12,13",Sumatera Utara,Mandailing Natal,49.91,"47,7",34.2,20.7,22.2
+"12,14",Sumatera Utara,Nias Selatan,57.0,"36,7",27.2,31.8,37.6
+"12,15",Sumatera Utara,Pakpak Bharat,39.04,"40,8",30.8,28.9,27.5
+"12,16",Sumatera Utara,Humbang Hasundutan,34.98,"26,7",29.6,18.4,18.3
+"12,17",Sumatera Utara,Samosir,32.16,"28,4",26.3,22.4,28.6
+"12,18",Sumatera Utara,Serdang Bedagai,26.5,20,21.1,14.4,19.0
+"12,19",Sumatera Utara,Batu Bara,31.88,"30,9",21.7,17.7,23.0
+"12,2",Sumatera Utara,Padang Lawas Utara,49.28,"33,1",29.2,21.8,30.0
+"12,21",Sumatera Utara,Padang Lawas,41.95,42,35.8,17.7,25.2
+"12,22",Sumatera Utara,Labuhanbatu Selatan,,27,,,22.0
+"12,23",Sumatera Utara,Labuhanbatu Utara,,"30,9",,,17.5
+"12,24",Sumatera Utara,Nias Utara,26.57,"34,4",11.9,20.3,25.8
+"12,25",Sumatera Utara,Nias Barat,43.95,"27,9",29.4,28.9,34.4
+"12,71",Sumatera Utara,Kota Medan,11.69,"19,9",15.4,5.8,15.4
+"12,72",Sumatera Utara,Kota Pematangsiantar,,15,,,
+"12,73",Sumatera Utara,Kota Sibolga,24.0,"25,8",14.5,10.6,
+"12,74",Sumatera Utara,Kota Tanjung Balai,26.08,"26,1",26.9,5.7,
+"12,75",Sumatera Utara,Kota Binjai,17.91,"21,7",18.7,19.4,25.6
+"12,76",Sumatera Utara,Kota Tebing Tinggi,25.87,"17,3",19.6,10.4,17.6
+"12,77",Sumatera Utara,Kota Padangsidimpuan,,"32,1",,,30.3
+"12,78",Sumatera Utara,Kota Gunungsitoli,25.91,"26,3",17.7,18.9,17.4
+"13,01",Sumatera Barat,Pesisir Selatan,30.56,"25,2",29.8,27.0,26.5
+"13,02",Sumatera Barat,Solok,35.45,"18,5",24.2,25.4,29.5
+"13,02",Sumatera Barat,Solok,35.45,"18,5",24.2,25.4,29.5
+"13,03",Sumatera Barat,Sijunjung,,"30,1",30.0,28.5,28.2
+"13,04",Sumatera Barat,Tanah Datar,23.31,"21,5",18.9,18.5,26.9
+"13,05",Sumatera Barat,Padang Pariaman,21.29,"28,3",25.0,19.4,26.6
+"13,06",Sumatera Barat,Agam,26.64,"19,1",24.6,20.1,27.0
+"13,07",Sumatera Barat,Lima Puluh Kota,28.94,"28,2",24.3,28.6,26.6
+"13,08",Sumatera Barat,Pasaman,35.67,"30,2",28.9,29.4,29.1
+"13,09",Sumatera Barat,Kepulauan Mentawai,43.3,"27,3",32.0,33.7,26.2
+"13,1",Sumatera Barat,Dharmasraya,,"19,5",,,20.5
+"13,11",Sumatera Barat,Solok Selatan,34.99,"24,5",31.7,14.7,21.5
+"13,12",Sumatera Barat,Pasaman Barat,31.66,24,35.5,29.7,26.6
+"13,71",Sumatera Barat,Kota Padang,20.92,"18,9",19.5,24.2,20.6
+"13,72",Sumatera Barat,Kota Solok,20.73,"18,5",18.1,16.3,18.6
+"13,73",Sumatera Barat,Kota Sawahlunto,,"21,1",,,20.0
+"13,74",Sumatera Barat,Kota Padang Panjang,13.55,20,16.8,15.8,19.0
+"13,75",Sumatera Barat,Kota Bukittinggi,23.46,19,16.8,20.1,16.8
+"13,76",Sumatera Barat,Kota Payakumbuh,22.3,20,17.8,19.8,16.4
+"13,77",Sumatera Barat,Kota Pariaman,20.78,"20,3",18.4,17.7,15.7
+"14,01",Riau,Kampar,23.07,"25,7",14.5,7.6,16.2
+"14,02",Riau,Indragiri Hulu,29.67,"23,6",16.7,12.7,20.0
+"14,03",Riau,Bengkalis,21.07,"21,9",8.4,17.9,12.5
+"14,04",Riau,Indragiri Hilir,27.43,"28,4",28.5,18.8,25.0
+"14,05",Riau,Pelalawan,22.97,"21,2",11.2,10.1,16.8
+"14,06",Riau,Rokan Hulu,24.37,"25,8",22.0,15.9,21.4
+"14,07",Riau,Rokan Hilir,28.87,"29,7",14.7,16.6,24.5
+"14,08",Riau,Siak,27.79,19,22.0,10.4,16.2
+"14,09",Riau,Kuantan Singingi,29.55,"22,4",17.8,23.0,23.1
+"14,1",Riau,Kepulauan Meranti,25.1,"23,3",17.5,19.6,18.0
+"14,71",Riau,Kota Pekanbaru,,"11,4",,,14.5
+"14,72",Riau,Kota Dumai,11.59,23,12.8,14.9,16.9
+"15,01",Jambi,Kerinci,33.85,"26,7",24.2,8.7,16.4
+"15,02",Jambi,Merangin,15.38,"19,7",14.5,14.9,9.6
+"15,03",Jambi,Sarolangun,19.06,"21,4",16.8,4.8**,6.6
+"15,04",Jambi,Batanghari,27.32,"24,5",26.3,10.1,
+"15,05",Jambi,Muaro Jambi,13.51,"27,2",18.6,12.0,18.8
+"15,06",Jambi,Tanjung Jabung Barat,21.81,"19,8",9.9,14.1,7.0
+"15,07",Jambi,Tanjung Jabung Timur,20.05,"25,6",22.5,23.7,23.9
+"15,08",Jambi,Bungo,27.57,"22,9",15.4,13.7,20.4
+"15,09",Jambi,Tebo,30.13,"26,2",25.0,22.7,24.2
+"15,71",Jambi,Kota Jambi,18.62,"17,4",14.0,13.5,10.3
+"15,72",Jambi,Kota Sungai Penuh,25.66,25,26.0,4.1**,8.0
+"16,01",Sumatera Selatan,Ogan Komering Ulu,27.97,"31,1",19.9,15.7,22.0
+"16,02",Sumatera Selatan,Ogan Komering Ilir,38.06,"32,2",15.1,32.5,24.3
+"16,03",Sumatera Selatan,Muara Enim,38.62,"29,7",22.8,25.9,20.4
+"16,04",Sumatera Selatan,Lahat,29.53,"22,4",19.0,7.8,12.9
+"16,05",Sumatera Selatan,Musi Rawas,25.41,"28,3",25.4,21.9,19.3
+"16,06",Sumatera Selatan,Musi Banyuasin,,23,,,14.8
+"16,07",Sumatera Selatan,Banyuasin,,22,,,
+"16,08",Sumatera Selatan,Ogan Komering Ulu Timur,24.02,"31,1",19.1,9.3,17.4
+"16,09",Sumatera Selatan,Ogan Komering Ulu Selatan,26.13,"31,1",19.4,23.0,16.6
+"16,1",Sumatera Selatan,Ogan Ilir,35.56,"29,2",24.9,22.9,27.4
+"16,11",Sumatera Selatan,Empat Lawang,39.16,26,18.5,32.6,31.9
+"16,12",Sumatera Selatan,Penukal Abab Lematang Ilir,25.45,"20,2",,,20.5
+"16,13",Sumatera Selatan,Musi Rawas Utara,41.12,"28,3",20.2,33.1,22.0
+"16,71",Sumatera Selatan,Kota Palembang,22.91,"16,1",14.3,18.9,10.6
+"16,72",Sumatera Selatan,Kota Pagar Alam,39.19,"15,5",11.6,23.3,20.0
+"16,73",Sumatera Selatan,Kota Lubuk Linggau,17.37,"22,8",11.7,17.5,
+"16,74",Sumatera Selatan,Kota Prabumulih,25.62,22,12.3,15.4,11.6
+"17,01",Bengkulu,Bengkulu Selatan,25.22,"20,8",23.2,24.0,18.3
+"17,02",Bengkulu,Rejang Lebong,27.86,26,20.2,28.6,24.7
+"17,03",Bengkulu,Bengkulu Utara,27.62,"20,7",22.8,21.6,20.7
+"17,04",Bengkulu,Kaur,30.53,"11,3",12.4,14.3,15.9
+"17,05",Bengkulu,Seluma,40.13,"24,7",22.1,26.0,22.6
+"17,06",Bengkulu,Muko Muko,,"22,2",,,
+"17,07",Bengkulu,Lebong,14.91,"23,3",20.2,15.7,22.7
+"17,08",Bengkulu,Kepahiang,28.44,"22,9",24.9,22.1,17.0
+"17,09",Bengkulu,Bengkulu Tengah,27.33,"25,5",21.2,23.2,23.4
+"17,71",Bengkulu,Kota Bengkulu,21.73,"22,2",12.9,6.7,16.1
+"18,01",Lampung,Lampung Selatan,30.39,"16,3",9.9,10.3,10.4
+"18,02",Lampung,Lampung Tengah,21.41,"20,8",8.7,16.7,15.5
+"18,03",Lampung,Lampung Utara,38.56,"20,2",24.7,23.5,20.0
+"18,04",Lampung,Lampung Barat,22.23,"22,7",16.6,24.6,20.5
+"18,05",Lampung,Tulang Bawang,15.39,"9,5",10.2,9.8,
+"18,06",Lampung,Tanggamus,27.39,25,20.4,17.1,24.9
+"18,07",Lampung,Lampung Timur,26.12,"15,3",18.1,14.2,14.0
+"18,08",Lampung,Way Kanan,18.95,"20,7",18.4,22.7,13.9
+"18,09",Lampung,Pesawaran,25.84,"17,6",25.1,10.0,15.5
+"18,1",Lampung,Pringsewu,17.76,19,16.2,15.8,19.5
+"18,11",Lampung,Mesuji,27.44,"21,8",22.5,5.0,11.1
+"18,12",Lampung,Tulang Bawang Barat,,"22,1",,,13.4
+"18,13",Lampung,Pesisir Barat,19.89,"22,8",16.7,16.1,19.8
+"18,71",Lampung,Kota Bandar Lampung,36.08,"19,4",11.1,13.4,14.8
+"18,72",Lampung,Kota Metro,25.03,"19,7",10.4,7.1,14.8
+"19,01",Kepulauan Bangka Belitung,Bangka,20.86,5,16.2,23.2,21.2
+"19,02",Kepulauan Bangka Belitung,Belitung,16.43,"6,4",19.6,20.8,18.1
+"19,03",Kepulauan Bangka Belitung,Bangka Selatan,21.59,"8,3",23.0,20.7,24.6
+"19,04",Kepulauan Bangka Belitung,Bangka Tengah,16.42,"7,2",21.2,18.2,21.2
+"19,05",Kepulauan Bangka Belitung,Bangka Barat,23.3,"5,6",20.5,20.6,19.9
+"19,06",Kepulauan Bangka Belitung,Belitung Timur,22.13,"7,3",16.0,17.3,17.1
+"19,71",Kepulauan Bangka Belitung,Kota Pangkal Pinang,20.27,"5,1",12.9,,17.3
+"21,01",Kepulauan Riau,Bintan,24.37,20,17.8,21.6,16.3
+"21,02",Kepulauan Riau,Karimun,15.08,"17,6",13.3,17.9,21.4
+"21,03",Kepulauan Riau,Natuna,17.36,"17,8",18.0,16.1,18.5
+"21,04",Kepulauan Riau,Lingga,16.49,"25,4",18.9,20.5,19.8
+"21,05",Kepulauan Riau,Kepulauan Anambas,12.54,"21,7",14.0,15.2,15.8
+"21,71",Kepulauan Riau,Kota Batam,15.88,"17,5",15.2,16.1,14.0
+"21,72",Kepulauan Riau,Kota Tanjung Pinang,21.69,"18,8",15.7,15.2,12.9
+"31,01",DKI Jakarta,Kepulauan Seribu,29.16,"19,3",20.5,18.6,16.9
+"31,71",DKI Jakarta,Kota Jakarta Pusat,21.72,"19,7",14.0,19.1,20.3
+"31,72",DKI Jakarta,Kota Jakarta Utara,24.21,"20,4",18.5,19.8,19.7
+"31,73",DKI Jakarta,Kota Jakarta Barat,18.6,"17,6",15.2,17.1,17.4
+"31,74",DKI Jakarta,Kota Jakarta Selatan,19.64,"15,7",11.9,16.6,14.9
+"31,75",DKI Jakarta,Kota Jakarta Timur,18.43,"13,4",14.4,16.8,16.4
+"32,01",Jawa Barat,Bogor,34.96,"16,9",24.9,27.6,18.9
+"32,01",Jawa Barat,Bogor,34.96,"16,9",24.9,27.6,18.9
+"32,02",Jawa Barat,Sukabumi,21.93,,27.5,27.0,20.5
+"32,02",Jawa Barat,Sukabumi,21.93,,27.5,27.0,20.5
+"32,03",Jawa Barat,Cianjur,27.52,"33,7",13.6,11.4,7.2
+"32,04",Jawa Barat,Bandung,27.87,"26,4",25.0,29.2,24.1
+"32,04",Jawa Barat,Bandung,27.87,"26,4",25.0,29.2,24.1
+"32,05",Jawa Barat,Garut,27.03,"35,2",23.6,24.1,14.2
+"32,06",Jawa Barat,Tasikmalaya,34.97,"24,4",27.2,20.7,17.0
+"32,06",Jawa Barat,Tasikmalaya,34.97,"24,4",27.2,20.7,17.0
+"32,07",Jawa Barat,Ciamis,24.21,16,18.6,25.4,20.3
+"32,08",Jawa Barat,Kuningan,18.06,"18,7",19.4,23.4,22.7
+"32,09",Jawa Barat,Cirebon,25.06,"26,5",18.6,22.9,18.0
+"32,09",Jawa Barat,Cirebon,25.06,"26,5",18.6,22.9,18.0
+"32,1",Jawa Barat,Majalengka,28.53,23,24.3,24.1,18.0
+"32,11",Jawa Barat,Sumedang,24.43,22,27.6,14.4,17.0
+"32,12",Jawa Barat,Indramayu,29.19,"14,4",21.1,18.4,9.8
+"32,13",Jawa Barat,Subang,25.73,"18,1",15.7,18.7,12.4
+"32,14",Jawa Barat,Purwakarta,23.42,"20,6",21.8,24.0,14.4
+"32,15",Jawa Barat,Karawang,24.01,"20,6",14.0,17.1,17.6
+"32,16",Jawa Barat,Bekasi,20.93,"13,8",17.8,23.2,18.2
+"32,16",Jawa Barat,Bekasi,20.93,"13,8",17.8,23.2,18.2
+"32,17",Jawa Barat,Bandung Barat,32.12,"29,6",27.3,25.1,30.8
+"32,18",Jawa Barat,Pangandaran,21.35,"22,7",20.0,23.9,17.3
+"32,71",Jawa Barat,Kota Bogor,21.33,"16,9",18.7,18.2,21.1
+"32,72",Jawa Barat,Kota Sukabumi,15.6,,19.2,26.9,19.7
+"32,73",Jawa Barat,Kota Bandung,28.12,"26,4",19.4,16.3,22.8
+"32,74",Jawa Barat,Kota Cirebon,22.04,"26,5",17.0,19.9,14.9
+"32,75",Jawa Barat,Kota Bekasi,20.03,"13,8",6.0,10.3,11.7
+"32,76",Jawa Barat,Kota Depok,16.09,"12,3",12.6,14.3,12.5
+"32,77",Jawa Barat,Kota Cimahi,34.29,"19,9",16.4,24.5,22.3
+"32,78",Jawa Barat,Kota Tasikmalaya,24.75,"24,4",22.4,27.1,19.6
+"32,79",Jawa Barat,Kota Banjar,28.97,"23,9",19.3,23.6,18.8
+"33,01",Jawa Tengah,Cilacap,23.18,"17,9",17.6,18.5,15.6
+"33,02",Jawa Tengah,Banyumas,26.4,"21,6",16.6,20.9,19.6
+"33,03",Jawa Tengah,Purbalingga,24.99,"16,8",26.8,26.0,22.3
+"33,04",Jawa Tengah,Banjarnegara,26.0,"23,3",22.2,19.9,20.6
+"33,05",Jawa Tengah,Kebumen,19.65,"15,9",22.1,21.9,18.0
+"33,06",Jawa Tengah,Purworejo,26.94,"15,7",21.3,20.6,14.9
+"33,07",Jawa Tengah,Wonosobo,38.57,"28,1",22.7,29.2,23.9
+"33,08",Jawa Tengah,Magelang,31.01,"13,3",28.2,25.8,19.3
+"33,08",Jawa Tengah,Magelang,31.01,"13,3",28.2,25.8,19.3
+"33,09",Jawa Tengah,Boyolali,28.82,"20,7",20.0,21.5,24.5
+"33,1",Jawa Tengah,Klaten,27.64,"15,8",18.2,24.5,20.8
+"33,11",Jawa Tengah,Sukoharjo,26.87,20,19.8,24.3,16.8
+"33,12",Jawa Tengah,Wonogiri,17.68,14,18.0,19.5,15.1
+"33,13",Jawa Tengah,Karanganyar,23.22,"16,2",22.3,22.2,17.4
+"33,14",Jawa Tengah,Sragen,32.4,"18,8",24.3,18.4,15.8
+"33,15",Jawa Tengah,Grobogan,29.13,"9,6",19.3,20.2,25.6
+"33,16",Jawa Tengah,Blora,31.57,"21,5",25.8,21.2,21.7
+"33,17",Jawa Tengah,Rembang,23.45,"18,7",24.3,19.5,15.8
+"33,18",Jawa Tengah,Pati,19.38,"20,6",23.0,18.5,16.5
+"33,19",Jawa Tengah,Kudus,27.07,"17,6",19.0,15.7,13.2
+"33,2",Jawa Tengah,Jepara,30.9,25,18.2,18.9,15.6
+"33,21",Jawa Tengah,Demak,35.76,"25,5",16.2,9.5,10.0
+"33,22",Jawa Tengah,Semarang,25.91,"16,4",18.7,18.8,14.5
+"33,22",Jawa Tengah,Semarang,25.91,"16,4",18.7,18.8,14.5
+"33,23",Jawa Tengah,Temanggung,25.79,"20,5",28.9,25.1,27.3
+"33,24",Jawa Tengah,Kendal,27.82,"21,2",17.5,22.4,19.2
+"33,25",Jawa Tengah,Batang,26.89,"21,7",23.5,24.7,20.7
+"33,26",Jawa Tengah,Pekalongan,34.74,"19,5",23.5,28.6,19.5
+"33,26",Jawa Tengah,Pekalongan,34.74,"19,5",23.5,28.6,19.5
+"33,27",Jawa Tengah,Pemalang,33.06,"24,7",19.8,15.3,19.1
+"33,28",Jawa Tengah,Tegal,25.14,"23,9",22.3,21.5,15.9
+"33,28",Jawa Tengah,Tegal,25.14,"23,9",22.3,21.5,15.9
+"33,29",Jawa Tengah,Brebes,34.65,"26,3",29.1,21.6,23.1
+"33,71",Jawa Tengah,Kota Magelang,22.96,"13,3",13.9,15.4,15.3
+"33,72",Jawa Tengah,Kota Surakarta,18.76,"20,4",16.2,16.0,16.2
+"33,73",Jawa Tengah,Kota Salatiga,22.7,"15,2",14.2,16.9,14.0
+"33,74",Jawa Tengah,Kota Semarang,26.01,"16,4",10.4,15.7,11.2
+"33,75",Jawa Tengah,Kota Pekalongan,26.59,"19,5",23.1,28.2,19.3
+"33,76",Jawa Tengah,Kota Tegal,30.13,"23,9",16.8,22.3,18.0
+"34,01",DI Yogyakarta,Kulon Progo,27.13,"14,9",15.8,21.2,18.0
+"34,02",DI Yogyakarta,Bantul,18.32,"19,1",14.9,20.5,16.5
+"34,03",DI Yogyakarta,Gunungkidul,,"20,6",,,
+"34,04",DI Yogyakarta,Sleman,18.52,16,15.0,12.4,17.3
+"34,71",DI Yogyakarta,Kota Yogyakarta,25.42,"17,1",13.8,16.8,14.8
+"35,01",Jawa Timur,Pacitan,34.47,"22,7",20.6,20.9,11.7
+"35,02",Jawa Timur,Ponorogo,27.55,20,14.2,16.1,13.4
+"35,03",Jawa Timur,Trenggalek,26.78,"18,1",19.5,15.8,6.7
+"35,04",Jawa Timur,Tulungagung,29.62,"13,1",17.3,21.5,13.6
+"35,05",Jawa Timur,Blitar,27.05,"12,9",14.3,20.3,17.8
+"35,05",Jawa Timur,Blitar,27.05,"12,9",14.3,20.3,17.8
+"35,06",Jawa Timur,Kediri,24.49,"15,7",21.6,16.8,7.9
+"35,06",Jawa Timur,Kediri,24.49,"15,7",21.6,16.8,7.9
+"35,07",Jawa Timur,Malang,25.56,"25,7",,,23.3
+"35,08",Jawa Timur,Lumajang,34.47,"30,1",23.8,29.9,23.4
+"35,09",Jawa Timur,Jember,37.94,"23,9",34.9,29.7,30.4
+"35,1",Jawa Timur,Banyuwangi,24.46,"20,1",18.1,21.9,17.6
+"35,11",Jawa Timur,Bondowoso,37.22,37,32.0,17.0,11.2
+"35,12",Jawa Timur,Situbondo,26.74,"23,7",30.9,4.1,10.6
+"35,13",Jawa Timur,Probolinggo,54.75,19,17.3,35.4,26.3
+"35,13",Jawa Timur,Probolinggo,54.75,19,17.3,35.4,26.3
+"35,14",Jawa Timur,Pasuruan,29.27,"21,5",20.5,27.9,26.1
+"35,14",Jawa Timur,Pasuruan,29.27,"21,5",20.5,27.9,26.1
+"35,15",Jawa Timur,Sidoarjo,13.24,"14,8",16.1,8.4,10.6
+"35,16",Jawa Timur,Mojokerto,17.2,"6,9",11.6,16.2,15.2
+"35,16",Jawa Timur,Mojokerto,17.2,"6,9",11.6,16.2,15.2
+"35,17",Jawa Timur,Jombang,32.17,"21,2",22.1,18.0,17.2
+"35,18",Jawa Timur,Nganjuk,26.61,"25,3",20.0,17.1,22.8
+"35,19",Jawa Timur,Madiun,24.94,"12,4",17.6,16.5,12.1
+"35,19",Jawa Timur,Madiun,24.94,"12,4",17.6,16.5,12.1
+"35,2",Jawa Timur,Magetan,21.54,"17,2",14.9,19.2,10.3
+"35,21",Jawa Timur,Ngawi,28.7,"16,2",28.5,14.0,11.4
+"35,22",Jawa Timur,Bojonegoro,32.48,"23,9",24.3,14.1,12.0
+"35,23",Jawa Timur,Tuban,27.15,"25,1",24.9,17.8,11.3
+"35,24",Jawa Timur,Lamongan,27.7,"20,5",27.5,9.4,6.9
+"35,25",Jawa Timur,Gresik,25.53,23,10.7,15.4,15.2
+"35,26",Jawa Timur,Bangkalan,22.37,"38,9",26.2,10.2,17.6
+"35,27",Jawa Timur,Sampang,34.39,"17,2",6.9,14.1,18.9
+"35,28",Jawa Timur,Pamekasan,27.13,"38,7",8.1,25.1,22.3
+"35,29",Jawa Timur,Sumenep,30.48,29,21.6,16.7,11.2
+"35,71",Jawa Timur,Kota Kediri,10.94,"15,7",14.3,18.6,17.6
+"35,72",Jawa Timur,Kota Blitar,16.1,"12,9",12.8,17.7,11.4
+"35,73",Jawa Timur,Kota Malang,28.87,"25,7",18.0,17.3,22.8
+"35,74",Jawa Timur,Kota Probolinggo,23.31,19,23.3,31.8,23.1
+"35,75",Jawa Timur,Kota Pasuruan,21.56,"21,5",21.1,11.7,18.3
+"35,76",Jawa Timur,Kota Mojokerto,25.63,"6,9",8.4,11.0,11.7
+"35,77",Jawa Timur,Kota Madiun,17.44,"12,4",9.7,12.8,11.8
+"35,78",Jawa Timur,Kota Surabaya,16.87,"28,9",4.8,1.6**,8.5
+"35,79",Jawa Timur,Kota Batu,27.5,15,25.2,23.1,24.5
+"36,01",Banten,Pandeglang,34.01,"37,8",29.4,28.6,26.4
+"36,02",Banten,Lebak,32.96,"27,3",26.2,35.5,32.4
+"36,03",Banten,Tangerang,18.42,"15,3",21.1,26.4,23.4
+"36,03",Banten,Tangerang,18.42,"15,3",21.1,26.4,23.4
+"36,04",Banten,Serang,39.43,"23,4",26.4,23.9,20.2
+"36,04",Banten,Serang,39.43,"23,4",26.4,23.9,20.2
+"36,71",Banten,Kota Tangerang,15.96,"15,3",11.8,17.6,11.2
+"36,72",Banten,Kota Cilegon,29.08,"20,6",19.1,22.0,19.0
+"36,73",Banten,Kota Serang,28.75,"23,4",23.8,22.3,22.9
+"36,74",Banten,Kota Tangerang Selatan,15.39,"19,9",9.0,9.2,10.5
+"51,01",Bali,Jembrana,19.2,"14,3",14.2,8.7,7.5
+"51,02",Bali,Tabanan,18.58,"9,2",8.2,6.3,7.5
+"51,03",Bali,Badung,10.83,"8,7",6.6,4.9,7.2
+"51,04",Bali,Gianyar,11.1,"5,1",6.3,6.3,5.4
+"51,05",Bali,Klungkung,12.86,"19,4",7.7,4.9,5.2
+"51,06",Bali,Bangli,23.01,"11,8",9.1,10.2,8.3
+"51,07",Bali,Karangasem,15.75,"22,9",9.2,6.4,13.0
+"51,08",Bali,Buleleng,22.05,"8,9",11.0,6.2,14.8
+"51,71",Bali,Kota Denpasar,14.48,9,5.5,10.8,10.4
+"52,01",Nusa Tenggara Barat (NTB),Lombok Barat,36.3,"28,9",34.0,19.9,27.3
+"52,02",Nusa Tenggara Barat (NTB),Lombok Tengah,45.25,"32,1",37.0,17.6,24.9
+"52,03",Nusa Tenggara Barat (NTB),Lombok Timur,39.57,"37,6",35.6,27.6,33.0
+"52,04",Nusa Tenggara Barat (NTB),Sumbawa,28.99,"29,7",29.7,25.7,29.8
+"52,05",Nusa Tenggara Barat (NTB),Dompu,41.49,"31,5",34.5,12.4,19.8
+"52,06",Nusa Tenggara Barat (NTB),Bima,33.56,"23,7",29.5,36.7,23.8
+"52,06",Nusa Tenggara Barat (NTB),Bima,33.56,"23,7",29.5,36.7,23.8
+"52,07",Nusa Tenggara Barat (NTB),Sumbawa Barat,42.73,"23,6",13.9,10.5,18.2
+"52,08",Nusa Tenggara Barat (NTB),Lombok Utara,41.36,34,35.9,33.5,35.3
+"52,71",Nusa Tenggara Barat (NTB),Kota Mataram,28.64,"25,3",25.8,25.6,23.5
+"52,72",Nusa Tenggara Barat (NTB),Kota Bima,33.62,"23,7",31.2,31.8,28.4
+"53,01",Nusa Tenggara Timur (NTT),Kupang,50.35,"26,1",,38.4,39.5
+"53,02",Nusa Tenggara Timur (NTT),Timor Tengah Selatan,58.65,"48,3",,50.1,56.8
+"53,03",Nusa Tenggara Timur (NTT),Timor Tengah Utara,50.8,"46,7",,42.7,47.3
+"53,04",Nusa Tenggara Timur (NTT),Belu,46.09,"39,9",,48.1,44.3
+"53,05",Nusa Tenggara Timur (NTT),Alor,37.77,"44,8",,39.3,37.4
+"53,06",Nusa Tenggara Timur (NTT),Flores Timur,36.28,"23,4",,37.2,31.3
+"53,07",Nusa Tenggara Timur (NTT),Sikka,34.42,"26,6",,33.3,32.3
+"53,08",Nusa Tenggara Timur (NTT),Ende,35.76,"27,2",,27.5,30.7
+"53,09",Nusa Tenggara Timur (NTT),Ngada,17.06,29,,21.3,28.9
+"53,1",Nusa Tenggara Timur (NTT),Manggarai,45.46,"33,1",,36.8,41.0
+"53,11",Nusa Tenggara Timur (NTT),Sumba Timur,37.02,"28,8",,26.3,30.9
+"53,12",Nusa Tenggara Timur (NTT),Sumba Barat,48.39,37,,42.5,35.2
+"53,13",Nusa Tenggara Timur (NTT),Lembata,34.6,"31,7",,35.1,25.7
+"53,14",Nusa Tenggara Timur (NTT),Rote Ndao,51.59,"40,1",,39.8,32.4
+"53,15",Nusa Tenggara Timur (NTT),Manggarai Barat,56.8,"38,5",,36.2,31.1
+"53,16",Nusa Tenggara Timur (NTT),Nagekeo,34.6,"28,1",,24.9,25.0
+"53,17",Nusa Tenggara Timur (NTT),Sumba Tengah,41.06,34,,39.5,37.4
+"53,18",Nusa Tenggara Timur (NTT),Sumba Barat Daya,46.42,44,,44.3,47.5
+"53,19",Nusa Tenggara Timur (NTT),Manggarai Timur,42.73,"42,9",,43.7,38.8
+"53,2",Nusa Tenggara Timur (NTT),Sabu Raijua,46.66,"33,9",,36.9,32.2
+"53,21",Nusa Tenggara Timur (NTT),Malaka,51.0,"31,4",,47.7,31.6
+"53,71",Nusa Tenggara Timur (NTT),Kota Kupang,32.02,"26,1",,29.9,26.9
+"61,01",Kalimantan Barat,Sambas,39.45,"32,6",30.5,30.8,36.4
+"61,02",Kalimantan Barat,Mempawah,,,25.1,27.2,28.6
+"61,03",Kalimantan Barat,Sanggau,29.2,"26,2",32.5,22.1,21.3
+"61,04",Kalimantan Barat,Ketapang,21.79,"23,6",22.3,N/A*,17.9
+"61,05",Kalimantan Barat,Sintang,26.07,"38,2",18.7,24.8,31.0
+"61,06",Kalimantan Barat,Kapuas Hulu,34.65,"28,9",37.9,16.7,23.6
+"61,07",Kalimantan Barat,Bengkayang,41.56,"26,8",30.1,32.7,23.4
+"61,08",Kalimantan Barat,Landak,36.95,"27,8",32.5,31.0,28.6
+"61,09",Kalimantan Barat,Sekadau,39.73,"26,5",35.5,12.2,14.4
+"61,1",Kalimantan Barat,Melawi,36.9,"37,2",44.1,35.3,35.2
+"61,11",Kalimantan Barat,Kayong Utara,30.89,"24,5",25.1,22.9,23.8
+"61,12",Kalimantan Barat,Kubu Raya,25.17,"40,3",27.6,25.4,30.2
+"61,71",Kalimantan Barat,Kota Pontianak,33.41,"24,4",19.7,16.7,22.3
+"61,72",Kalimantan Barat,Kota Singkawang,24.23,"22,3",23.5,20.1,21.9
+"62,01",Kalimantan Tengah,Kotawaringin Barat,23.98,"23,4",21.1,17.9,16.5
+"62,02",Kalimantan Tengah,Kotawaringin Timur,39.87,"32,5",27.9,35.5,21.6
+"62,03",Kalimantan Tengah,Kapuas,42.37,25,20.1,16.2,22.5
+"62,04",Kalimantan Tengah,Barito Selatan,33.9,"31,4",35.6,23.9,33.3
+"62,05",Kalimantan Tengah,Barito Utara,26.57,"28,3",19.6,15.3,20.4
+"62,06",Kalimantan Tengah,Katingan,30.52,"29,3",29.9,34.0,19.6
+"62,07",Kalimantan Tengah,Seruyan,34.1,"29,3",34.7,25.8,32.2
+"62,08",Kalimantan Tengah,Sukamara,32.84,"24,7",21.8,29.1,20.0
+"62,09",Kalimantan Tengah,Lamandau,17.83,"23,2",25.5,13.2,18.3
+"62,1",Kalimantan Tengah,Gunung Mas,32.83,"35,9",17.9,12.9,14.1
+"62,11",Kalimantan Tengah,Pulang Pisau,33.72,"24,6",31.6,24.0,27.9
+"62,12",Kalimantan Tengah,Murung Raya,17.45,"31,8",40.9,21.0,15.8
+"62,13",Kalimantan Tengah,Barito Timur,38.53,"33,7",26.9,21.7,21.7
+"62,71",Kalimantan Tengah,Kota Palangkaraya,,"25,2",,,
+"63,01",Kalimantan Selatan,Tanah Laut,33.5,31,26.6,41.7,22.5
+"63,02",Kalimantan Selatan,Kotabaru,,19,,,23.2
+"63,03",Kalimantan Selatan,Banjar,38.97,"40,2",26.4,30.1,32.3
+"63,03",Kalimantan Selatan,Banjar,38.97,"40,2",26.4,30.1,32.3
+"63,04",Kalimantan Selatan,Barito Kuala,35.84,"32,4",33.6,15.9,16.5
+"63,05",Kalimantan Selatan,Tapin,29.57,"33,5",14.5,14.4,13.2
+"63,06",Kalimantan Selatan,Hulu Sungai Selatan,42.06,"29,1",20.3,25.4,19.8
+"63,07",Kalimantan Selatan,Hulu Sungai Tengah,27.78,"29,6",31.1,13.0,19.6
+"63,08",Kalimantan Selatan,Hulu Sungai Utara,36.61,"20,9",28.0,36.0,27.6
+"63,09",Kalimantan Selatan,Tabalong,44.51,"28,2",19.7,18.1,23.1
+"63,1",Kalimantan Selatan,Tanah Bumbu,24.68,"18,7",16.1,25.1,21.6
+"63,11",Kalimantan Selatan,Balangan,52.1,"32,3",29.8,33.4,16.0
+"63,71",Kalimantan Selatan,Kota Banjarmasin,26.58,"27,8",22.4,26.5,26.5
+"63,72",Kalimantan Selatan,Kota Banjarbaru,,19,,,15.4
+"64,01",Kalimantan Timur,Paser,34.21,"23,6",24.9,22.4,23.4
+"64,02",Kalimantan Timur,Kutai Kartanegara,36.51,"26,4",27.1,17.6,14.3
+"64,03",Kalimantan Timur,Berau,24.65,"25,7",21.6,23.0,23.4
+"64,07",Kalimantan Timur,Kutai Barat,35.66,"15,8",23.1,22.0,27.6
+"64,08",Kalimantan Timur,Kutai Timur,39.35,"27,5",24.7,29.0,26.9
+"64,09",Kalimantan Timur,Penajam Paser Utara,26.98,"27,3",21.8,24.6,32.0
+"64,11",Kalimantan Timur,Mahakam Ulu,,"20,3",,,23.2
+"64,71",Kalimantan Timur,Kota Balikpapan,13.95,"17,6",19.6,21.6,24.8
+"64,72",Kalimantan Timur,Kota Samarinda,24.72,"21,6",25.3,24.4,20.3
+"64,74",Kalimantan Timur,Kota Bontang,28.97,"26,3",21.0,27.4,20.7
+"65,01",Kalimantan Utara,Bulungan,29.23,"22,9",18.9,22.6,15.9
+"65,02",Kalimantan Utara,Malinau,31.01,"24,2",23.5,20.5,26.0
+"65,03",Kalimantan Utara,Nunukan,27.71,30,30.5,15.8,21.7
+"65,04",Kalimantan Utara,Tana Tidung,17.94,"22,8",30.7,15.1,7.4
+"65,71",Kalimantan Utara,Kota Tarakan,22.78,"25,9",15.4,14.8,12.6
+"71,01",Sulawesi Utara,Bolaang Mongondow,,"26,6",,,19.3
+"71,02",Sulawesi Utara,Minahasa,16.62,"17,5",16.5,23.1,19.4
+"71,03",Sulawesi Utara,Kepulauan Sangihe,,"21,1",,,24.2
+"71,04",Sulawesi Utara,Kepulauan Talaud,20.14,"25,8",26.0,19.3,11.6
+"71,05",Sulawesi Utara,Minahasa Selatan,38.06,"24,2",19.2,26.4,28.1
+"71,06",Sulawesi Utara,Minahasa Utara,16.16,"19,1",20.5,10.9,18.9
+"71,07",Sulawesi Utara,Minahasa Tenggara,24.14,"25,5",26.5,15.0,21.9
+"71,08",Sulawesi Utara,Bolaang Mongondow Utara,,"26,4",,,26.3
+"71,09",Sulawesi Utara,Kepulauan Siau Tagulandang Biaro (Sitaro),,"22,5",,,
+"71,1",Sulawesi Utara,Bolaang Mongondow Timur,25.04,"24,4",30.0,28.4,18.8
+"71,11",Sulawesi Utara,Bolaang Mongondow Selatan,13.18,"37,4",27.9,33.0,23.6
+"71,71",Sulawesi Utara,Kota Manado,28.98,"23,8",18.4,21.8,18.8
+"71,72",Sulawesi Utara,Kota Bitung,16.32,"22,1",23.5,19.5,25.1
+"71,73",Sulawesi Utara,Kota Tomohon,13.43,"18,3",13.7,10.5,10.8
+"71,74",Sulawesi Utara,Kota Kotamobagu,,"25,1",,,23.1
+"72,01",Sulawesi Tengah,Banggai,29.96,26,24.3,29.1,28.7
+"72,02",Sulawesi Tengah,Poso,37.82,"26,7",24.6,26.5,21.1
+"72,03",Sulawesi Tengah,Donggala,33.59,"29,5",32.4,34.1,29.6
+"72,04",Sulawesi Tengah,Toli Toli,,"29,3",,,
+"72,05",Sulawesi Tengah,Buol,28.67,"28,6",32.7,30.0,36.9
+"72,06",Sulawesi Tengah,Morowali,26.79,"28,9",23.3,26.0,22.6
+"72,07",Sulawesi Tengah,Banggai Kepulauan,34.17,"30,6",32.6,27.7,28.4
+"72,08",Sulawesi Tengah,Parigi Moutong,31.54,"31,7",27.4,28.5,22.3
+"72,09",Sulawesi Tengah,Tojo Una Una,,"29,4",,,
+"72,1",Sulawesi Tengah,Sigi,50.53,"40,7",36.8,26.4,33.0
+"72,11",Sulawesi Tengah,Banggai Laut,,"26,1",,,26.6
+"72,12",Sulawesi Tengah,Morowali Utara,35.5,"24,6",24.7,24.7,20.4
+"72,71",Sulawesi Tengah,Kota Palu,25.83,"23,9",24.7,22.1,25.6
+"73,01",Sulawesi Selatan,Kepulauan Selayar,,"27,7",,,25.7
+"73,02",Sulawesi Selatan,Bulukumba,28.24,"30,8",28.4,33.7,25.2
+"73,03",Sulawesi Selatan,Bantaeng,42.37,"22,5",22.1,15.8,24.3
+"73,04",Sulawesi Selatan,Jeneponto,41.11,"37,9",39.8,36.3,37.0
+"73,05",Sulawesi Selatan,Takalar,25.54,"34,7",31.3,35.4,24.0
+"73,06",Sulawesi Selatan,Gowa,36.94,33,33.0,21.1,17.0
+"73,07",Sulawesi Selatan,Sinjai,34.28,"30,1",29.4,33.5,28.6
+"73,08",Sulawesi Selatan,Bone,33.02,"34,1",27.8,26.0,26.0
+"73,09",Sulawesi Selatan,Maros,32.66,"37,5",30.1,34.7,22.4
+"73,1",Sulawesi Selatan,Pangkajene Kepulauan,34.51,"33,1",34.2,30.0,
+"73,11",Sulawesi Selatan,Barru,25.29,"26,4",14.1,22.1,26.9
+"73,12",Sulawesi Selatan,Soppeng,38.21,"25,4",26.9,24.0,26.6
+"73,13",Sulawesi Selatan,Wajo,36.7,"22,6",28.6,27.4,20.5
+"73,14",Sulawesi Selatan,Sidenreng Rappang,26.1,"25,4",27.3,26.4,20.3
+"73,15",Sulawesi Selatan,Pinrang,27.6,"24,5",20.9,17.6,22.2
+"73,16",Sulawesi Selatan,Enrekang,43.71,"31,9",26.4,34.9,34.3
+"73,17",Sulawesi Selatan,Luwu,36.4,"22,8",26.7,32.1,23.6
+"73,18",Sulawesi Selatan,Tana Toraja,31.42,"29,2",35.4,36.9,27.5
+"73,22",Sulawesi Selatan,Luwu Utara,18.12,"19,5",29.8,15.5,23.6
+"73,24",Sulawesi Selatan,Luwu Timur,25.76,"19,9",22.6,26.0,21.8
+"73,26",Sulawesi Selatan,Toraja Utara,34.35,"32,6",34.1,28.7,27.6
+"73,71",Sulawesi Selatan,Kota Makassar,23.05,"18,8",18.4,25.6,22.9
+"73,72",Sulawesi Selatan,Kota Pare Pare,,"24,8",,,
+"73,73",Sulawesi Selatan,Kota Palopo,15.34,"28,5",23.8,25.5,22.7
+"74,01",Sulawesi Tenggara,Kolaka,36.01,"26,5",22.6,23.8,29.7
+"74,02",Sulawesi Tenggara,Konawe,26.61,"26,2",28.3,27.8,25.0
+"74,03",Sulawesi Tenggara,Muna,27.36,"30,8",31.3,29.2,25.0
+"74,04",Sulawesi Tenggara,Buton,38.3,33,32.6,37.2,28.8
+"74,05",Sulawesi Tenggara,Konawe Selatan,36.2,"28,3",28.0,33.6,21.3
+"74,06",Sulawesi Tenggara,Bombana,27.24,"26,8",35.3,30.4,24.7
+"74,07",Sulawesi Tenggara,Wakatobi,23.86,26,29.9,31.9,24.1
+"74,08",Sulawesi Tenggara,Kolaka Utara,37.91,"29,1",24.8,31.8,23.6
+"74,09",Sulawesi Tenggara,Konawe Utara,24.39,"29,5",21.6,24.7,27.0
+"74,1",Sulawesi Tenggara,Buton Utara,35.35,"26,8",31.2,33.9,30.5
+"74,11",Sulawesi Tenggara,Kolaka Timur,37.36,23,23.7,31.3,22.0
+"74,12",Sulawesi Tenggara,Konawe Kepulauan,34.21,"32,8",32.3,31.3,26.5
+"74,13",Sulawesi Tenggara,Muna Barat,36.49,29,31.7,24.4,28.4
+"74,14",Sulawesi Tenggara,Buton Tengah,28.4,"42,7",41.6,36.8,31.8
+"74,15",Sulawesi Tenggara,Buton Selatan,46.08,"45,2",32.6,37.1,38.9
+"74,71",Sulawesi Tenggara,Kota Kendari,24.3,24,19.5,25.7,24.4
+"74,72",Sulawesi Tenggara,Kota Bau Bau,,"27,6",,,
+"75,01",Gorontalo,Gorontalo,37.25,"26,5",30.8,34.7,28.3
+"75,01",Gorontalo,Gorontalo,37.25,"26,5",23.8,34.7,28.3
+"75,01",Gorontalo,Gorontalo,37.25,"26,5",30.8,34.7,28.3
+"75,01",Gorontalo,Gorontalo,37.25,"26,5",23.8,34.7,28.3
+"75,01",Gorontalo,Gorontalo,37.25,"26,5",30.8,34.7,28.3
+"75,01",Gorontalo,Gorontalo,37.25,"26,5",23.8,34.7,28.3
+"75,02",Gorontalo,Boalemo,37.15,"29,8",29.9,16.0,8.0
+"75,03",Gorontalo,Bone Bolango,25.34,"25,1",22.3,27.1,23.0
+"75,04",Gorontalo,Pahuwato,,,,,
+"75,05",Gorontalo,Gorontalo Utara,35.34,"29,5",29.3,30.5,25.6
+"75,71",Gorontalo,Kota Gorontalo,37.8,"26,5",19.1,23.6,31.2
+"76,01",Sulawesi Barat,Pasangkayu (Mamuju Utara),,"28,6",,,
+"76,02",Sulawesi Barat,Mamuju,43.68,"30,3",33.8,32.8,38.7
+"76,03",Sulawesi Barat,Mamasa,45.02,"33,7",38.6,37.6,35.7
+"76,04",Sulawesi Barat,Polewali Mandar,39.45,36,39.3,28.1,31.5
+"76,05",Sulawesi Barat,Majene,43.7,"35,7",40.6,30.5,37.5
+"76,06",Sulawesi Barat,Mamuju Tengah,32.14,"26,3",28.1,27.9,31.5
+"81,01",Maluku,Maluku Tengah,31.43,"29,8",27.0,29.4,27.0
+"81,02",Maluku,Maluku Tenggara,35.21,"21,6",,34.0,28.1
+"81,03",Maluku,Kepulauan Tanimbar (Maluku Tenggara Barat),,"21,6",,,
+"81,04",Maluku,Buru,33.3,"31,7",23.3,20.3,25.4
+"81,05",Maluku,Seram Bagian Timur,40.54,"41,9",24.1,27.5,35.0
+"81,06",Maluku,Seram Bagian Barat,26.14,"28,7",27.5,31.4,33.8
+"81,07",Maluku,Kepulauan Aru,42.12,"35,8",28.1,40.6,37.6
+"81,08",Maluku,Maluku Barat Daya,29.16,"29,6",25.7,29.9,23.8
+"81,09",Maluku,Buru Selatan,41.56,"39,1",41.6,35.5,39.7
+"81,71",Maluku,Kota Ambon,20.08,"21,8",21.1,20.7,19.7
+"81,72",Maluku,Kota Tual,26.43,"27,7",24.9,32.0,25.2
+"82,01",Maluku Utara,Halmahera Barat,23.09,30,23.9,26.1,22.1
+"82,02",Maluku Utara,Halmahera Tengah,27.87,"29,1",32.2,29.5,19.7
+"82,03",Maluku Utara,Halmahera Utara,30.62,"30,5",24.9,24.3,21.8
+"82,04",Maluku Utara,Halmahera Selatan,37.79,"33,7",31.4,30.4,32.3
+"82,05",Maluku Utara,Kepulauan Sula,27.3,"27,7",28.5,18.8,22.5
+"82,06",Maluku Utara,Halmahera Timur,30.38,"32,7",32.3,19.0,24.3
+"82,07",Maluku Utara,Pulau Morotai,34.98,"28,3",31.2,11.7,17.7
+"82,08",Maluku Utara,Pulau Taliabu,31.03,"35,2",23.7,30.6,24.9
+"82,71",Maluku Utara,Kota Ternate,,24,,21.1,16.6
+"82,72",Maluku Utara,Kota Tidore Kepulauan,,"25,1",,21.3,
+"91,03",Papua,Jayapura,34.16,"22,9",20.2,26.9,22.5
+"91,03",Papua,Jayapura,34.16,"22,9",20.2,26.9,22.5
+"91,05",Papua,Kepulauan Yapen,,,31.1,39.9,33.5
+"91,06",Papua,Biak Numfor,34.63,34,27.3,33.7,20.6
+"91,1",Papua,Sarmi,27.36,"32,7",25.6,26.5,31.6
+"91,11",Papua,Keerom,28.15,"30,5",25.9,34.4,24.4
+"91,15",Papua,Waropen,32.11,26,22.2,26.2,22.3
+"91,19",Papua,Supiori,53.53,"29,7",40.2,37.7,37.5
+"91,2",Papua,Mamberamo Raya,21.9,"22,5",29.0,40.0,33.8
+"91,71",Papua,Kota Jayapura,26.22,"22,9",20.6,21.3,24.1
+"92,02",Papua Barat,Manokwari,13.47,"26,9",36.6,N/A*,23.5
+"92,03",Papua Barat,Fak Fak,,26,,,
+"92,06",Papua Barat,Teluk Bintuni,37.02,"27,5",22.8,19.6,22.3
+"92,07",Papua Barat,Teluk Wondama,26.03,31,26.1,19.7,29.2
+"92,08",Papua Barat,Kaimana,24.1,"28,5",29.2,25.7,20.2
+"92,11",Papua Barat,Manokwari Selatan,28.6,"28,5",27.2,20.4,26.4
+"92,12",Papua Barat,Pegunungan Arfak,28.5,"40,1",51.5,34.7,39.3
+"93,01",Papua Selatan,Merauke,21.19,"28,3",23.7,23.8,18.5
+"93,02",Papua Selatan,Boven Digoel,34.97,"37,6",37.2,31.4,30.2
+"93,03",Papua Selatan,Mappi,21.99,"33,6",29.6,28.6,29.9
+"93,04",Papua Selatan,Asmat,46.7,"38,1",54.5,N/A*,28.3
+"94,01",Papua Tengah,Nabire,29.08,"20,6",17.1,22.2,21.7
+"94,02",Papua Tengah,Puncak Jaya,34.14,"33,3",42.5,N/A*,36.3
+"94,03",Papua Tengah,Paniai,34.44,"32,1",45.2,N/A*,29.6
+"94,04",Papua Tengah,Mimika,23.99,"31,5",33.0,24.7,28.4
+"94,05",Papua Tengah,Puncak,18.79,"48,3",42.0,N/A*,42.5
+"94,06",Papua Tengah,Dogiyai,65.99,"42,9",35.1,N/A*,55.8
+"94,07",Papua Tengah,Intan Jaya,28.01,"46,9",35.4,N/A*,48.4
+"94,08",Papua Tengah,Deiyai,,"28,4",13.4,50.2,30.6
+"95,01",Papua Pegunungan,Jayawijaya,34.53,"49,3",46.7,33.2,41.3
+"95,02",Papua Pegunungan,Pegunungan Bintang,35.87,"55,4",48.9,N/A*,41.4
+"95,03",Papua Pegunungan,Yahukimo,17.81,"43,6",53.3,N/A*,37.7
+"95,04",Papua Pegunungan,Tolikara,49.56,"28,9",50.1,N/A*,46.4
+"95,05",Papua Pegunungan,Mamberamo Tengah,,"42,4",,33.0,42.0
+"95,06",Papua Pegunungan,Yalimo,15.78,"44,1",38.2,N/A*,35.1
+"95,07",Papua Pegunungan,Lanny Jaya,17.02,"38,6",34.8,39.5,
+"95,08",Papua Pegunungan,Nduga,12.1,"38,8",50.2,N/A*,36.0
+"96,01",Papua Barat Daya,Sorong,26.93,"19,9",23.8,27.3,25.1
+"96,04",Papua Barat Daya,Sorong Selatan,40.26,"39,6",36.7,31.3,31.3
+"96,05",Papua Barat Daya,Raja Ampat,32.25,"31,1",31.1,30.9,37.4
+"96,09",Papua Barat Daya,Tambrauw,48.21,"39,4",39.1,31.8,37.9
+"96,1",Papua Barat Daya,Maybrat,44.83,"34,5",27.3,N/A*,30.7
+"96,71",Papua Barat Daya,Kota Sorong,15.75,"19,9",27.2,31.0,29.3

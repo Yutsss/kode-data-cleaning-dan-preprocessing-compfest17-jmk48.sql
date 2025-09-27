@@ -1,0 +1,457 @@
+tahun;provinsi;stunting_prevalence;life_expectancy_at_birth;hdi
+2013;Aceh;;69.31;68.3
+2014;Aceh;;69.35;68.81
+2015;Aceh;;69.5;69.45
+2016;Aceh;;69.51;70
+2017;Aceh;;69.52;70.6
+2018;Aceh;;69.64;71.19
+2019;Aceh;34,18;69.87;71.9
+2020;Aceh;33,01;69.93;71.99
+2021;Aceh;33,2;69.96;72.18
+2022;Aceh;31,2;70.18;72.8
+2023;Aceh;29,4;70.34;73.4
+2024;Aceh;28,6;70.44;74.03
+2013;Bali;;71.11;72.09
+2014;Bali;;71.19;72.48
+2015;Bali;;71.35;73.27
+2016;Bali;;71.41;73.65
+2017;Bali;;71.46;74.3
+2018;Bali;;71.68;74.77
+2019;Bali;14,42;71.99;75.38
+2020;Bali;13,68;72.13;75.5
+2021;Bali;10,9;72.24;75.69
+2022;Bali;8;72.6;76.44
+2023;Bali;7,2;72.98;77.1
+2024;Bali;8,7;73.29;77.76
+2013;Banten;;69.04;69.47
+2014;Banten;;69.13;69.89
+2015;Banten;;69.43;70.27
+2016;Banten;;69.46;70.96
+2017;Banten;;69.49;71.42
+2018;Banten;;69.64;71.95
+2019;Banten;24,11;69.84;72.44
+2020;Banten;21,84;69.96;72.45
+2021;Banten;24,5;70.02;72.72
+2022;Banten;20;70.39;73.32
+2023;Banten;24;70.77;73.87
+2024;Banten;21,1;71.02;74.48
+2013;Bengkulu;;68.33;67.5
+2014;Bengkulu;;68.36;68.06
+2015;Bengkulu;;68.5;68.59
+2016;Bengkulu;;68.56;69.33
+2017;Bengkulu;;68.59;69.95
+2018;Bengkulu;;68.84;70.64
+2019;Bengkulu;26,86;69.21;71.21
+2020;Bengkulu;25,43;69.35;71.4
+2021;Bengkulu;22,1;69.42;71.64
+2022;Bengkulu;19,8;69.69;72.16
+2023;Bengkulu;20,2;69.92;72.78
+2024;Bengkulu;18,8;70.13;73.39
+2013;DI Yogyakarta;;74.45;76.44
+2014;DI Yogyakarta;;74.5;76.81
+2015;DI Yogyakarta;;74.68;77.59
+2016;DI Yogyakarta;;74.71;78.38
+2017;DI Yogyakarta;;74.74;78.89
+2018;DI Yogyakarta;;74.82;79.53
+2019;DI Yogyakarta;21,04;74.92;79.99
+2020;DI Yogyakarta;19,88;74.99;79.97
+2021;DI Yogyakarta;17,3;75.04;80.22
+2022;DI Yogyakarta;16,4;75.08;80.64
+2023;DI Yogyakarta;18;75.12;81.07
+2024;DI Yogyakarta;17,4;75.22;81.55
+2013;DKI Jakarta;;72.19;78.08
+2014;DKI Jakarta;;72.27;78.39
+2015;DKI Jakarta;;72.43;78.99
+2016;DKI Jakarta;;72.49;79.6
+2017;DKI Jakarta;;72.55;80.06
+2018;DKI Jakarta;;72.67;80.47
+2019;DKI Jakarta;19,96;72.79;80.76
+2020;DKI Jakarta;19,24;72.91;80.77
+2021;DKI Jakarta;16,8;73.01;81.11
+2022;DKI Jakarta;14,8;73.32;81.65
+2023;DKI Jakarta;17,6;73.65;82.46
+2024;DKI Jakarta;17,3;73.87;83.08
+2013;Gorontalo;;66.92;64.7
+2014;Gorontalo;;67;65.17
+2015;Gorontalo;;67.12;65.86
+2016;Gorontalo;;67.13;66.29
+2017;Gorontalo;;67.14;67.01
+2018;Gorontalo;;67.45;67.71
+2019;Gorontalo;34,89;67.93;68.49
+2020;Gorontalo;32,72;68.07;68.68
+2021;Gorontalo;29;68.19;69
+2022;Gorontalo;23,8;68.51;69.81
+2023;Gorontalo;26,9;68.83;70.45
+2024;Gorontalo;23,8;69.09;71.23
+2013;Jambi;;70.35;67.76
+2014;Jambi;;70.43;68.24
+2015;Jambi;;70.56;68.89
+2016;Jambi;;70.71;69.62
+2017;Jambi;;70.76;69.99
+2018;Jambi;;70.89;70.65
+2019;Jambi;21,03;71.06;71.26
+2020;Jambi;19,59;71.16;71.29
+2021;Jambi;22,4;71.22;71.63
+2022;Jambi;18;71.5;72.14
+2023;Jambi;13,5;71.77;72.77
+2024;Jambi;17,1;72.04;73.43
+2013;Jawa Barat;;72.09;68.25
+2014;Jawa Barat;;72.23;68.8
+2015;Jawa Barat;;72.41;69.5
+2016;Jawa Barat;;72.44;70.05
+2017;Jawa Barat;;72.47;70.69
+2018;Jawa Barat;;72.66;71.3
+2019;Jawa Barat;26,21;72.85;72.03
+2020;Jawa Barat;25,55;73.04;72.09
+2021;Jawa Barat;24,5;73.23;72.45
+2022;Jawa Barat;20,2;73.52;73.12
+2023;Jawa Barat;21,7;73.8;73.74
+2024;Jawa Barat;15,9;74.07;74.43
+2013;Jawa Tengah;;73.28;68.02
+2014;Jawa Tengah;;73.88;68.78
+2015;Jawa Tengah;;73.96;69.49
+2016;Jawa Tengah;;74.02;69.98
+2017;Jawa Tengah;;74.08;70.52
+2018;Jawa Tengah;;74.18;71.12
+2019;Jawa Tengah;27,68;74.23;71.73
+2020;Jawa Tengah;26,9;74.37;71.87
+2021;Jawa Tengah;20,9;74.47;72.16
+2022;Jawa Tengah;20,8;74.57;72.79
+2023;Jawa Tengah;20,7;74.69;73.39
+2024;Jawa Tengah;17,1;74.93;73.88
+2013;Jawa Timur;;70.34;67.55
+2014;Jawa Timur;;70.45;68.14
+2015;Jawa Timur;;70.68;68.95
+2016;Jawa Timur;;70.74;69.74
+2017;Jawa Timur;;70.8;70.27
+2018;Jawa Timur;;70.97;70.77
+2019;Jawa Timur;26,86;71.18;71.5
+2020;Jawa Timur;25,64;71.3;71.71
+2021;Jawa Timur;23,5;71.38;72.14
+2022;Jawa Timur;19,2;71.74;72.75
+2023;Jawa Timur;17,7;72.11;73.38
+2024;Jawa Timur;14,7;72.35;74.09
+2013;Kalimantan Barat;;69.66;64.3
+2014;Kalimantan Barat;;69.76;64.89
+2015;Kalimantan Barat;;69.87;65.59
+2016;Kalimantan Barat;;69.9;65.88
+2017;Kalimantan Barat;;69.92;66.26
+2018;Kalimantan Barat;;70.18;66.98
+2019;Kalimantan Barat;31,46;70.56;67.65
+2020;Kalimantan Barat;30,9;70.69;67.66
+2021;Kalimantan Barat;29,8;70.76;67.9
+2022;Kalimantan Barat;25,2;71.02;68.63
+2023;Kalimantan Barat;24,5;71.32;69.41
+2024;Kalimantan Barat;26,8;71.55;70.13
+2013;Kalimantan Selatan;;67.35;67.17
+2014;Kalimantan Selatan;;67.47;67.63
+2015;Kalimantan Selatan;;67.8;68.38
+2016;Kalimantan Selatan;;67.92;69.05
+2017;Kalimantan Selatan;;68.02;69.65
+2018;Kalimantan Selatan;;68.23;70.17
+2019;Kalimantan Selatan;31,75;68.49;70.72
+2020;Kalimantan Selatan;30,93;68.66;70.91
+2021;Kalimantan Selatan;30;68.83;71.28
+2022;Kalimantan Selatan;24,6;69.13;71.84
+2023;Kalimantan Selatan;24,7;69.42;72.5
+2024;Kalimantan Selatan;22,9;69.65;73.03
+2013;Kalimantan Tengah;;69.29;67.41
+2014;Kalimantan Tengah;;69.39;67.77
+2015;Kalimantan Tengah;;69.54;68.53
+2016;Kalimantan Tengah;;69.57;69.13
+2017;Kalimantan Tengah;;69.59;69.79
+2018;Kalimantan Tengah;;69.64;70.42
+2019;Kalimantan Tengah;32,3;69.69;70.91
+2020;Kalimantan Tengah;30,48;69.74;71.05
+2021;Kalimantan Tengah;27,4;69.79;71.25
+2022;Kalimantan Tengah;26,9;70.04;71.63
+2023;Kalimantan Tengah;23,5;70.27;72.2
+2024;Kalimantan Tengah;22,1;70.43;72.73
+2013;Kalimantan Timur;;73.52;73.21
+2014;Kalimantan Timur;;73.62;73.82
+2015;Kalimantan Timur;;73.65;74.17
+2016;Kalimantan Timur;;73.68;74.59
+2017;Kalimantan Timur;;73.7;75.12
+2018;Kalimantan Timur;;73.96;75.83
+2019;Kalimantan Timur;28,09;74.22;76.61
+2020;Kalimantan Timur;27,49;74.33;76.24
+2021;Kalimantan Timur;22,8;74.61;76.88
+2022;Kalimantan Timur;23,9;74.62;77.44
+2023;Kalimantan Timur;22,9;74.72;78.2
+2024;Kalimantan Timur;22,2;75.03;78.83
+2013;Kalimantan Utara;;72.02;67.99
+2014;Kalimantan Utara;;72.12;68.64
+2015;Kalimantan Utara;;72.16;68.76
+2016;Kalimantan Utara;;72.43;69.2
+2017;Kalimantan Utara;;72.47;69.84
+2018;Kalimantan Utara;;72.5;70.56
+2019;Kalimantan Utara;26,25;72.54;71.15
+2020;Kalimantan Utara;25,76;72.59;70.63
+2021;Kalimantan Utara;27,5;72.65;71.19
+2022;Kalimantan Utara;22,1;72.67;71.83
+2023;Kalimantan Utara;21,3;72.69;72.49
+2024;Kalimantan Utara;17,6;72.73;73.02
+2013;Kepulauan Bangka Belitung;;69.64;67.92
+2014;Kepulauan Bangka Belitung;;69.72;68.27
+2015;Kepulauan Bangka Belitung;;69.88;69.05
+2016;Kepulauan Bangka Belitung;;69.92;69.55
+2017;Kepulauan Bangka Belitung;;69.95;69.99
+2018;Kepulauan Bangka Belitung;;70.18;70.67
+2019;Kepulauan Bangka Belitung;19,93;70.5;71.3
+2020;Kepulauan Bangka Belitung;20,94;70.64;71.47
+2021;Kepulauan Bangka Belitung;18,6;70.73;71.69
+2022;Kepulauan Bangka Belitung;18,5;70.98;72.24
+2023;Kepulauan Bangka Belitung;20,6;71.23;72.85
+2024;Kepulauan Bangka Belitung;20,1;71.49;73.33
+2013;Kepulauan Riau;;69.05;73.02
+2014;Kepulauan Riau;;69.15;73.4
+2015;Kepulauan Riau;;69.41;73.75
+2016;Kepulauan Riau;;69.45;73.99
+2017;Kepulauan Riau;;69.48;74.45
+2018;Kepulauan Riau;;69.64;74.84
+2019;Kepulauan Riau;16,82;69.8;75.48
+2020;Kepulauan Riau;13,72;69.96;75.59
+2021;Kepulauan Riau;17,6;70.12;75.79
+2022;Kepulauan Riau;15,4;70.5;76.46
+2023;Kepulauan Riau;16,8;70.91;77.11
+2024;Kepulauan Riau;15;71.24;77.97
+2013;Lampung;;69.55;65.73
+2014;Lampung;;69.66;66.42
+2015;Lampung;;69.9;66.95
+2016;Lampung;;69.94;67.65
+2017;Lampung;;69.95;68.25
+2018;Lampung;;70.18;69.02
+2019;Lampung;26,26;70.51;69.57
+2020;Lampung;24,4;70.65;69.69
+2021;Lampung;18,5;70.73;69.9
+2022;Lampung;15,2;70.99;70.45
+2023;Lampung;14,9;71.25;71.15
+2024;Lampung;15,9;71.5;71.81
+2013;Maluku;;64.93;66.09
+2014;Maluku;;65.01;66.74
+2015;Maluku;;65.31;67.05
+2016;Maluku;;65.35;67.6
+2017;Maluku;;65.4;68.19
+2018;Maluku;;65.59;68.87
+2019;Maluku;30,38;65.82;69.45
+2020;Maluku;27,94;65.98;69.49
+2021;Maluku;28,7;66.09;69.71
+2022;Maluku;26,1;66.45;70.22
+2023;Maluku;28,4;66.78;70.94
+2024;Maluku;28,4;66.99;71.57
+2013;Maluku Utara;;67.24;64.78
+2014;Maluku Utara;;67.33;65.18
+2015;Maluku Utara;;67.44;65.91
+2016;Maluku Utara;;67.51;66.63
+2017;Maluku Utara;;67.54;67.2
+2018;Maluku Utara;;67.8;67.76
+2019;Maluku Utara;29,07;68.18;68.7
+2020;Maluku Utara;27,23;68.33;68.49
+2021;Maluku Utara;27,5;68.45;68.76
+2022;Maluku Utara;26,1;68.79;69.47
+2023;Maluku Utara;28,4;69.11;70.21
+2024;Maluku Utara;23,2;69.35;71.03
+2013;Nusa Tenggara Barat;;64.74;63.76
+2014;Nusa Tenggara Barat;;64.89;64.31
+2015;Nusa Tenggara Barat;;65.38;65.19
+2016;Nusa Tenggara Barat;;65.48;65.81
+2017;Nusa Tenggara Barat;;65.55;66.58
+2018;Nusa Tenggara Barat;;65.87;67.3
+2019;Nusa Tenggara Barat;37,85;66.28;68.14
+2020;Nusa Tenggara Barat;38,15;66.51;68.25
+2021;Nusa Tenggara Barat;31,4;66.69;68.65
+2022;Nusa Tenggara Barat;32,7;67.07;69.46
+2023;Nusa Tenggara Barat;24,6;67.47;70.2
+2024;Nusa Tenggara Barat;29,8;67.73;70.93
+2013;Nusa Tenggara Timur;;65.82;61.68
+2014;Nusa Tenggara Timur;;65.91;62.26
+2015;Nusa Tenggara Timur;;65.96;62.67
+2016;Nusa Tenggara Timur;;66.04;63.13
+2017;Nusa Tenggara Timur;;66.07;63.73
+2018;Nusa Tenggara Timur;;66.38;64.39
+2019;Nusa Tenggara Timur;43,82;66.85;65.23
+2020;Nusa Tenggara Timur;42,99;67.01;65.19
+2021;Nusa Tenggara Timur;37,8;67.15;65.28
+2022;Nusa Tenggara Timur;35,4;67.47;65.9
+2023;Nusa Tenggara Timur;37,9;67.77;66.68
+2024;Nusa Tenggara Timur;37;67.99;67.39
+2013;Papua;;64.76;56.25
+2014;Papua;;64.84;56.75
+2015;Papua;;65.09;57.25
+2016;Papua;;65.12;58.05
+2017;Papua;;65.14;59.09
+2018;Papua;;65.36;60.06
+2019;Papua;29,36;65.65;60.84
+2020;Papua;23,42;65.79;60.44
+2021;Papua;29,5;65.93;60.62
+2022;Papua;34,6;66.23;71.76
+2023;Papua;28,6;66.44;72.41
+2024;Papua;24,7;68.79;73
+2013;Papua Barat;;65.05;60.91
+2014;Papua Barat;;65.13;61.28
+2015;Papua Barat;;65.19;61.73
+2016;Papua Barat;;65.3;62.21
+2017;Papua Barat;;65.32;62.99
+2018;Papua Barat;;65.55;63.74
+2019;Papua Barat;24,58;65.9;64.7
+2020;Papua Barat;28,05;66.02;65.09
+2021;Papua Barat;26,2;66.14;65.26
+2022;Papua Barat;30;66.46;65.16
+2023;Papua Barat;24,8;66.79;66.16
+2024;Papua Barat;24,6;67.05;67.02
+2013;Papua Barat Daya;;-;-
+2014;Papua Barat Daya;;-;-
+2015;Papua Barat Daya;;-;-
+2016;Papua Barat Daya;;-;-
+2017;Papua Barat Daya;;-;-
+2018;Papua Barat Daya;;-;-
+2019;Papua Barat Daya;;-;-
+2020;Papua Barat Daya;;-;-
+2021;Papua Barat Daya;;-;-
+2022;Papua Barat Daya;;-;67.59
+2023;Papua Barat Daya;31;-;68.05
+2024;Papua Barat Daya;30,5;67.85;68.63
+2013;Papua Pegunungan;;-;-
+2014;Papua Pegunungan;;-;-
+2015;Papua Pegunungan;;-;-
+2016;Papua Pegunungan;;-;-
+2017;Papua Pegunungan;;-;-
+2018;Papua Pegunungan;;-;-
+2019;Papua Pegunungan;;-;-
+2020;Papua Pegunungan;;-;-
+2021;Papua Pegunungan;;-;-
+2022;Papua Pegunungan;;-;51.7
+2023;Papua Pegunungan;37,3;-;52.45
+2024;Papua Pegunungan;;64.8;53.42
+2013;Papua Selatan;;-;-
+2014;Papua Selatan;;-;-
+2015;Papua Selatan;;-;-
+2016;Papua Selatan;;-;-
+2017;Papua Selatan;;-;-
+2018;Papua Selatan;;-;-
+2019;Papua Selatan;;-;-
+2020;Papua Selatan;;-;-
+2021;Papua Selatan;;-;-
+2022;Papua Selatan;;-;65.74
+2023;Papua Selatan;25;-;67.27
+2024;Papua Selatan;25,7;66.45;67.9
+2013;Papua Tengah;;-;-
+2014;Papua Tengah;;-;-
+2015;Papua Tengah;;-;-
+2016;Papua Tengah;;-;-
+2017;Papua Tengah;;-;-
+2018;Papua Tengah;;-;-
+2019;Papua Tengah;;-;-
+2020;Papua Tengah;;-;-
+2021;Papua Tengah;;-;-
+2022;Papua Tengah;;-;58.25
+2023;Papua Tengah;39,4;-;58.93
+2024;Papua Tengah;;66.99;59.75
+2013;Riau;;70.67;69.91
+2014;Riau;;70.76;70.33
+2015;Riau;;70.93;70.84
+2016;Riau;;70.97;71.2
+2017;Riau;;70.99;71.79
+2018;Riau;;71.19;72.44
+2019;Riau;23,95;71.48;73
+2020;Riau;22,43;71.6;72.71
+2021;Riau;22,3;71.67;72.94
+2022;Riau;17;71.95;73.52
+2023;Riau;13,6;72.24;74.04
+2024;Riau;20,1;72.52;74.79
+2013;Sulawesi Barat;;63.32;61.53
+2014;Sulawesi Barat;;64.04;62.24
+2015;Sulawesi Barat;;64.22;62.96
+2016;Sulawesi Barat;;64.31;63.6
+2017;Sulawesi Barat;;64.34;64.3
+2018;Sulawesi Barat;;64.58;65.1
+2019;Sulawesi Barat;40,38;64.82;65.73
+2020;Sulawesi Barat;40,44;65.06;66.11
+2021;Sulawesi Barat;33,8;65.25;66.36
+2022;Sulawesi Barat;35;65.63;66.92
+2023;Sulawesi Barat;30,3;66.01;67.55
+2024;Sulawesi Barat;35,4;66.27;68.2
+2013;Sulawesi Selatan;;69.5;67.92
+2014;Sulawesi Selatan;;69.59;68.49
+2015;Sulawesi Selatan;;69.8;69.15
+2016;Sulawesi Selatan;;69.82;69.76
+2017;Sulawesi Selatan;;69.84;70.34
+2018;Sulawesi Selatan;;70.08;70.9
+2019;Sulawesi Selatan;30,59;70.43;71.66
+2020;Sulawesi Selatan;29,28;70.57;71.93
+2021;Sulawesi Selatan;27,4;70.66;72.24
+2022;Sulawesi Selatan;27,2;70.97;72.82
+2023;Sulawesi Selatan;27,4;71.22;73.46
+2024;Sulawesi Selatan;23,3;71.43;74.05
+2013;Sulawesi Tengah;;67.02;65.79
+2014;Sulawesi Tengah;;67.18;66.43
+2015;Sulawesi Tengah;;67.26;66.76
+2016;Sulawesi Tengah;;67.31;67.47
+2017;Sulawesi Tengah;;67.32;68.11
+2018;Sulawesi Tengah;;67.78;68.88
+2019;Sulawesi Tengah;31,16;68.23;69.5
+2020;Sulawesi Tengah;29,66;68.69;69.55
+2021;Sulawesi Tengah;29,7;68.83;69.79
+2022;Sulawesi Tengah;28,2;68.93;70.28
+2023;Sulawesi Tengah;27,2;69.17;70.95
+2024;Sulawesi Tengah;26,1;69.42;71.56
+2013;Sulawesi Tenggara;;70.28;67.55
+2014;Sulawesi Tenggara;;70.39;68.07
+2015;Sulawesi Tenggara;;70.44;68.75
+2016;Sulawesi Tenggara;;70.46;69.31
+2017;Sulawesi Tenggara;;70.47;69.86
+2018;Sulawesi Tenggara;;70.72;70.61
+2019;Sulawesi Tenggara;31,44;70.97;71.2
+2020;Sulawesi Tenggara;29,76;71.22;71.45
+2021;Sulawesi Tenggara;30,2;71.27;71.66
+2022;Sulawesi Tenggara;27,7;71.37;72.23
+2023;Sulawesi Tenggara;30;71.47;72.79
+2024;Sulawesi Tenggara;26,1;71.6;73.48
+2013;Sulawesi Utara;;70.86;69.49
+2014;Sulawesi Utara;;70.94;69.96
+2015;Sulawesi Utara;;70.99;70.39
+2016;Sulawesi Utara;;71.02;71.05
+2017;Sulawesi Utara;;71.04;71.66
+2018;Sulawesi Utara;;71.26;72.2
+2019;Sulawesi Utara;21,18;71.58;72.99
+2020;Sulawesi Utara;19,73;71.69;72.93
+2021;Sulawesi Utara;21,6;71.76;73.3
+2022;Sulawesi Utara;20,5;72.08;73.81
+2023;Sulawesi Utara;21,3;72.4;74.36
+2024;Sulawesi Utara;20,8;72.69;75.03
+2013;Sumatera Barat;;68.21;68.91
+2014;Sumatera Barat;;68.32;69.36
+2015;Sumatera Barat;;68.66;69.98
+2016;Sumatera Barat;;68.73;70.73
+2017;Sumatera Barat;;68.78;71.24
+2018;Sumatera Barat;;69.01;71.73
+2019;Sumatera Barat;27,47;69.31;72.39
+2020;Sumatera Barat;26,71;69.47;72.38
+2021;Sumatera Barat;23,3;69.59;72.65
+2022;Sumatera Barat;35;69.9;73.26
+2023;Sumatera Barat;23,6;70.19;73.75
+2024;Sumatera Barat;24,9;70.33;74.49
+2013;Sumatera Selatan;;68.84;66.16
+2014;Sumatera Selatan;;68.93;66.75
+2015;Sumatera Selatan;;69.14;67.46
+2016;Sumatera Selatan;;69.16;68.24
+2017;Sumatera Selatan;;69.18;68.86
+2018;Sumatera Selatan;;69.41;69.39
+2019;Sumatera Selatan;28,98;69.65;70.02
+2020;Sumatera Selatan;28,68;69.88;70.01
+2021;Sumatera Selatan;24,8;69.98;70.24
+2022;Sumatera Selatan;27,2;70.32;70.9
+2023;Sumatera Selatan;20,2;70.66;71.62
+2024;Sumatera Selatan;15,9;70.93;72.3
+2013;Sumatera Utara;;67.94;68.36
+2014;Sumatera Utara;;68.04;68.87
+2015;Sumatera Utara;;68.29;69.51
+2016;Sumatera Utara;;68.33;70
+2017;Sumatera Utara;;68.37;70.57
+2018;Sumatera Utara;;68.61;71.18
+2019;Sumatera Utara;30,11;68.95;71.74
+2020;Sumatera Utara;28,7;69.1;71.77
+2021;Sumatera Utara;25,8;69.23;72
+2022;Sumatera Utara;21,1;69.61;72.71
+2023;Sumatera Utara;18,9;69.98;73.37
+2024;Sumatera Utara;22;70.28;74.02

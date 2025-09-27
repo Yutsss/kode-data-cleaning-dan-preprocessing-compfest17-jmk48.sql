@@ -1,0 +1,582 @@
+﻿Province/Regency/City,
+,[New Method] Life Expectancy at Birth (Year)
+,2017
+ACEH,69.52
+Simeulue,64.9
+Aceh Singkil,67.07
+Aceh Selatan,63.89
+Aceh Tenggara,67.62
+Aceh Timur,68.33
+Aceh Tengah,68.53
+Aceh Barat,67.62
+Aceh Besar,69.52
+Pidie,66.58
+Bireuen,70.8
+Aceh Utara,68.54
+Aceh Barat Daya,64.51
+Gayo Lues,64.98
+Aceh Tamiang,69.16
+Nagan Raya,68.76
+Aceh Jaya,66.77
+Bener Meriah,68.9
+Pidie Jaya,69.68
+Kota Banda Aceh,70.96
+Kota Sabang,70.09
+Kota Langsa,69.06
+Kota Lhokseumawe,71.14
+Kota Subulussalam,63.56
+SUMATERA UTARA,68.37
+Nias,69.18
+Mandailing Natal,61.97
+Tapanuli Selatan,64.28
+Tapanuli Tengah,66.66
+Tapanuli Utara,67.86
+Toba Samosir / Toba,69.36
+Labuhan Batu,69.44
+Asahan,67.57
+Simalungun,70.53
+Dairi,68.13
+Karo,70.77
+Deli Serdang,71.11
+Langkat,67.94
+Nias Selatan,68
+Humbang Hasundutan,68.41
+Pakpak Bharat,65.05
+Samosir,70.68
+Serdang Bedagai,67.79
+Batu Bara,66.1
+Padang Lawas Utara,66.58
+Padang Lawas,66.5
+Labuhan Batu Selatan,68.14
+Labuhan Batu Utara,68.91
+Nias Utara,68.77
+Nias Barat,68.28
+Kota Sibolga,68.05
+Kota Tanjung Balai,62.28
+Kota Pematang Siantar,72.63
+Kota Tebing Tinggi,70.28
+Kota Medan,72.4
+Kota Binjai,71.75
+Kota Padangsidimpuan,68.41
+Kota Gunungsitoli,70.42
+SUMATERA BARAT,68.78
+Kepulauan Mentawai,64.37
+Pesisir Selatan,70.25
+Solok,67.65
+Sijunjung,65.44
+Tanah Datar,69.11
+Padang Pariaman,67.96
+Agam,71.57
+Lima Puluh Kota,69.31
+Pasaman,66.54
+Solok Selatan,66.92
+Dharmasraya,70.44
+Pasaman Barat,67.15
+Kota Padang,73.2
+Kota Solok,72.92
+Kota Sawah Lunto,69.39
+Kota Padang Panjang,72.46
+Kota Bukittinggi,73.69
+Kota Payakumbuh,73.13
+Kota Pariaman,69.67
+RIAU,70.99
+Kuantan Singingi,67.99
+Indragiri Hulu,69.83
+Indragiri Hilir,67.07
+Pelalawan,70.54
+Siak,70.64
+Kampar,70.16
+Rokan Hulu,69.31
+Bengkalis,70.69
+Rokan Hilir,69.66
+Kepulauan Meranti,66.99
+Kota Pekanbaru,71.75
+Kota Dumai,70.37
+JAMBI,70.76
+Kerinci,69.52
+Merangin,70.94
+Sarolangun,68.83
+Batang Hari,70.12
+Muaro Jambi,70.9
+Tanjung Jabung Timur,65.69
+Tanjung Jabung Barat,67.75
+Tebo,69.67
+Bungo,67.27
+Kota Jambi,72.33
+Kota Sungai Penuh,71.71
+SUMATERA SELATAN,69.18
+Ogan Komering Ulu,67.66
+Ogan Komering Ilir,68.04
+Muara Enim,68.14
+Lahat,65.25
+Musi Rawas,67.34
+Musi Banyuasin,68.14
+Banyu Asin,68.36
+Ogan Komering Ulu Selatan,66.24
+Ogan Komering Ulu Timur,68.44
+Ogan Ilir,64.72
+Empat Lawang,64.32
+Penukal Abab Lematang Ilir,67.7
+Musi Rawas Utara,64.99
+Kota Palembang,70.1
+Kota Prabumulih,69.67
+Kota Pagar Alam,65.87
+Kota Lubuklinggau,68.64
+BENGKULU,68.59
+Bengkulu Selatan,67.24
+Rejang Lebong,67.65
+Bengkulu Utara,67.42
+Kaur,65.92
+Seluma,66.85
+Mukomuko,65.93
+Lebong,62.46
+Kepahiang,67.12
+Bengkulu Tengah,67.64
+Kota Bengkulu,69.52
+LAMPUNG,69.95
+Lampung Barat,66.86
+Tanggamus,67.8
+Lampung Selatan,68.65
+Lampung Timur,70.11
+Lampung Tengah,69.28
+Lampung Utara,68.48
+Way Kanan,68.74
+Tulangbawang,69.41
+Pesawaran,68.29
+Pringsewu,69.14
+Mesuji,67.49
+Tulang Bawang Barat,69.35
+Pesisir Barat,62.54
+Kota Bandar Lampung,70.84
+Kota Metro,71.13
+KEP. BANGKA BELITUNG,69.95
+Bangka,70.56
+Belitung,70.44
+Bangka Barat,69.56
+Bangka Tengah,70.49
+Bangka Selatan,67.13
+Belitung Timur,71.37
+Kota Pangkal Pinang,72.64
+KEPULAUAN RIAU,69.48
+Karimun,70.32
+Bintan,70.12
+Natuna,64.33
+Lingga,61.14
+Kepulauan Anambas,66.76
+Kota Batam,73.19
+Kota Tanjung Pinang,71.84
+DKI JAKARTA,72.55
+Kep. Seribu,68.04
+Kota Jakarta Selatan,73.84
+Kota Jakarta Timur,74.18
+Kota Jakarta Pusat,73.83
+Kota Jakarta Barat,73.37
+Kota Jakarta Utara,72.99
+JAWA BARAT,72.47
+Bogor,70.7
+Sukabumi,70.26
+Cianjur,69.49
+Bandung,73.13
+Garut,70.84
+Tasikmalaya,68.71
+Ciamis,71.07
+Kuningan,72.88
+Cirebon,71.49
+Majalengka,69.39
+Sumedang,72
+Indramayu,70.86
+Subang,71.71
+Purwakarta,70.42
+Karawang,71.64
+Bekasi,73.3
+Bandung Barat,71.87
+Pangandaran,70.56
+Kota Bogor,73.01
+Kota Sukabumi,71.95
+Kota Bandung,73.86
+Kota Cirebon,71.86
+Kota Bekasi,74.63
+Kota Depok,74.04
+Kota Cimahi,73.61
+Kota Tasikmalaya,71.48
+Kota Banjar,70.39
+JAWA TENGAH,74.08
+Cilacap,73.24
+Banyumas,73.33
+Purbalingga,72.91
+Banjarnegara,73.79
+Kebumen,72.98
+Purworejo,74.26
+Wonosobo,71.3
+Magelang,73.39
+Boyolali,75.72
+Klaten,76.62
+Sukoharjo,77.49
+Wonogiri,76
+Karanganyar,77.31
+Sragen,75.55
+Grobogan,74.46
+Blora,73.99
+Rembang,74.32
+Pati,75.8
+Kudus,76.44
+Jepara,75.68
+Demak,75.27
+Semarang,75.57
+Temanggung,75.42
+Kendal,74.24
+Batang,74.5
+Pekalongan,73.46
+Pemalang,72.98
+Tegal,71.14
+Brebes,68.61
+Kota Magelang,76.66
+Kota Surakarta,77.06
+Kota Salatiga,76.98
+Kota Semarang,77.21
+Kota Pekalongan,74.19
+Kota Tegal,74.23
+D I YOGYAKARTA,74.74
+Kulon Progo,75.06
+Bantul,73.56
+Gunung Kidul,73.82
+Sleman,74.63
+Kota Yogyakarta,74.35
+JAWA TIMUR,70.8
+Pacitan,71.31
+Ponorogo,72.27
+Trenggalek,73.15
+Tulungagung,73.53
+Blitar,72.99
+Kediri,72.25
+Malang,72.12
+Lumajang,69.5
+Jember,68.54
+Banyuwangi,70.19
+Bondowoso,66.04
+Situbondo,68.53
+Probolinggo,66.47
+Pasuruan,69.9
+Sidoarjo,73.71
+Mojokerto,72.1
+Jombang,71.87
+Nganjuk,71.11
+Madiun,70.77
+Magetan,72.16
+Ngawi,71.74
+Bojonegoro,70.83
+Tuban,70.8
+Lamongan,71.87
+Gresik,72.36
+Bangkalan,69.82
+Sampang,67.67
+Pamekasan,67.05
+Sumenep,70.71
+Kota Kediri,73.69
+Kota Blitar,73.17
+Kota Malang,72.77
+Kota Probolinggo,69.86
+Kota Pasuruan,71.02
+Kota Mojokerto,72.86
+Kota Madiun,72.48
+Kota Surabaya,73.88
+Kota Batu,72.25
+BANTEN,69.49
+Pandeglang,64.04
+Lebak,66.59
+Tangerang,69.47
+Serang,64.02
+Kota Tangerang,71.38
+Kota Cilegon,66.32
+Kota Serang,67.38
+Kota Tangerang Selatan,72.16
+BALI,71.46
+Jembrana,71.7
+Tabanan,73.03
+Badung,74.53
+Gianyar,73.06
+Klungkung,70.45
+Bangli,69.83
+Karangasem,69.85
+Buleleng,71.14
+Kota Denpasar,74.17
+NUSA TENGGARA BARAT,65.55
+Lombok Barat,65.78
+Lombok Tengah,65.28
+Lombok Timur,65.01
+Sumbawa,66.58
+Dompu,65.89
+Bima,65.4
+Sumbawa Barat,66.98
+Lombok Utara,66.17
+Kota Mataram,70.98
+Kota Bima,69.58
+NUSA TENGGARA TIMUR,66.07
+Sumba Barat,66.2
+Sumba Timur,64.12
+Kupang,63.49
+Timor Tengah Selatan,65.65
+Timor Tengah Utara,66.19
+Belu,63.42
+Alor,60.47
+Lembata,66.19
+Flores Timur,64.45
+Sikka,66.3
+Ende,64.48
+Ngada,67.36
+Manggarai,65.84
+Rote Ndao,63.41
+Manggarai Barat,66.19
+Sumba Tengah,67.74
+Sumba Barat Daya,67.76
+Nagekeo,66.36
+Manggarai Timur,67.4
+Sabu Raijua,59
+Malaka,64.29
+Kota Kupang,68.58
+KALIMANTAN BARAT,69.92
+Sambas,68.17
+Bengkayang,73.04
+Landak,72.12
+Mempawah,70.32
+Sanggau,70.75
+Ketapang,70.52
+Sintang,71.11
+Kapuas Hulu,71.95
+Sekadau,70.98
+Melawi,72.39
+Kayong Utara,67.46
+Kubu Raya,69.8
+Kota Pontianak,72.17
+Kota Singkawang,71.13
+KALIMANTAN TENGAH,69.59
+Kotawaringin Barat,70.34
+Kotawaringin Timur,69.7
+Kapuas,68.59
+Barito Selatan,66.78
+Barito Utara,71.27
+Sukamara,71.41
+Lamandau,69.28
+Seruyan,69.23
+Katingan,65.53
+Pulang Pisau,67.86
+Gunung Mas,70.15
+Barito Timur,67.97
+Murung Raya,69.39
+Kota Palangka Raya,73.13
+KALIMANTAN SELATAN,68.02
+Tanah Laut,68.89
+Kotabaru,68.72
+Banjar,66.38
+Barito Kuala,65.33
+Tapin,69.77
+Hulu Sungai Selatan,65.39
+Hulu Sungai Tengah,65.3
+Hulu Sungai Utara,62.94
+Tabalong,69.95
+Tanah Bumbu,69.44
+Balangan,67.19
+Kota Banjarmasin,70.55
+Kota Banjar Baru,71.5
+KALIMANTAN TIMUR,73.7
+Paser,72.05
+Kutai Barat,72.37
+Kutai Kartanegara,71.68
+Kutai Timur,72.51
+Berau,71.44
+Penajam Paser Utara,70.82
+Mahakam Ulu,71.25
+Kota Balikpapan,73.97
+Kota Samarinda,73.71
+Kota Bontang,73.72
+KALIMANTAN UTARA,72.47
+Malinau,71.39
+Bulungan,72.51
+Tana Tidung,71.33
+Nunukan,71.25
+Kota Tarakan,73.85
+SULAWESI UTARA,71.04
+Bolaang Mongondow,68.61
+Minahasa,70.46
+Kepulauan Sangihe,69.35
+Kepulauan Talaud,69.48
+Minahasa Selatan,69.24
+Minahasa Utara,70.86
+Bolaang Mongondow Utara,66.98
+Siau Tagulandang Biaro,69.85
+Minahasa Tenggara,69.58
+Bolaang Mongondow Selatan,64.03
+Bolaang Mongondow Timur,67.32
+Kota Manado,71.34
+Kota Bitung,70.54
+Kota Tomohon,71.18
+Kota Kotamobagu,69.72
+SULAWESI TENGAH,67.32
+Banggai Kepulauan,64.53
+Banggai,70.02
+Morowali,68.07
+Poso,70.16
+Donggala,65.89
+Toli-Toli,64.12
+Buol,67
+Parigi Moutong,63.19
+Tojo Una-Una,64.07
+Sigi,68.72
+Banggai Laut,63.62
+Morowali Utara,68.34
+Kota Palu,69.93
+SULAWESI SELATAN,69.84
+Kepulauan Selayar,67.82
+Bulukumba,66.96
+Bantaeng,69.9
+Jeneponto,65.65
+Takalar,66.38
+Gowa,69.95
+Sinjai,66.61
+Maros,68.6
+Pangkajene dan Kepulauan,65.86
+Barru,68.3
+Bone,66.22
+Soppeng,68.72
+Wajo,66.52
+Sidenreng Rappang,68.82
+Pinrang,68.68
+Enrekang,70.38
+Luwu,69.6
+Tana Toraja,72.56
+Luwu Utara,67.61
+Luwu Timur,69.79
+Toraja Utara,72.94
+Kota Makasar,71.51
+Kota Parepare,70.69
+Kota Palopo,70.3
+SULAWESI TENGGARA,70.47
+Buton,67.3
+Muna,69.77
+Konawe,69.52
+Kolaka,70.05
+Konawe Selatan,69.98
+Bombana,67.82
+Wakatobi,69.59
+Kolaka Utara,69.74
+Buton Utara,70.38
+Konawe Utara,68.69
+Kolaka Timur,71.66
+Konawe Kepulauan,67.88
+Muna Barat,69.79
+Buton Tengah,67.17
+Buton Selatan,67.17
+Kota Kendari,73.02
+Kota Baubau,70.5
+GORONTALO,67.14
+Boalemo,67.86
+Gorontalo,66.69
+Pohuwato,62.86
+Bone Bolango,67.71
+Gorontalo Utara,65.12
+Kota Gorontalo,71.79
+SULAWESI BARAT,64.34
+Majene,60.79
+Polewali Mandar,61.76
+Mamasa,70.48
+Mamuju,66.65
+Mamuju Utara / Pasangkayu,65.33
+Mamuju Tengah,67.52
+MALUKU,65.4
+Maluku Tenggara Barat / Kepulauan Tanimbar,63.06
+Maluku Tenggara,64.61
+Maluku Tengah,66.06
+Buru,66.03
+Kepulauan Aru,62.34
+Seram Bagian Barat,60.96
+Seram Bagian Timur,58.56
+Maluku Barat Daya,61.62
+Buru Selatan,65.74
+Kota Ambon,69.92
+Kota Tual,64.61
+MALUKU UTARA,67.54
+Halmahera Barat,65.55
+Halmahera Tengah,62.8
+Kepulauan Sula,62.6
+Halmahera Selatan,65.2
+Halmahera Utara,68.94
+Halmahera Timur,67.85
+Pulau Morotai,66.28
+Pulau Taliabu,61.32
+Kota Ternate,70.27
+Kota Tidore Kepulauan,68.64
+PAPUA BARAT,65.32
+Fakfak,67.95
+Kaimana,63.99
+Teluk Wondama,59.26
+Teluk Bintuni,59.83
+Manokwari,68
+Sorong Selatan,65.63
+Sorong,65.52
+Raja Ampat,64.26
+Tambrauw,59.29
+Maybrat,64.8
+Manokwari Selatan,66.96
+Pegunungan Arfak,66.72
+Kota Sorong,69.67
+PAPUA BARAT DAYA,-
+Raja Ampat,-
+Sorong,-
+Sorong Selatan,-
+Maybrat,-
+Tambrauw,-
+Kota Sorong,-
+PAPUA,65.14
+Merauke,66.56
+Jayawijaya,58.67
+Jayapura,66.47
+Nabire,67.55
+Kepulauan Yapen,68.71
+Biak Numfor,67.87
+Paniai,65.7
+Puncak Jaya,64.41
+Mimika,71.93
+Boven Digoel,58.77
+Mappi,64.3
+Asmat,56.32
+Yahukimo,65.32
+Pegunungan Bintang,63.9
+Tolikara,65.1
+Sarmi,65.82
+Keerom,66.18
+Waropen,65.82
+Supiori,65.33
+Mamberamo Raya,56.9
+Nduga,54.6
+Lanny Jaya,65.65
+Mamberamo Tengah,62.92
+Yalimo,64.94
+Puncak,65.13
+Dogiyai,65.12
+Intan Jaya,65.09
+Deiyai,64.63
+Kota Jayapura,70
+PAPUA SELATAN,-
+Merauke,-
+Boven Digoel,-
+Mappi,-
+Asmat,-
+PAPUA TENGAH,-
+Mimika,-
+Dogiyai,-
+Deiyai,-
+Nabire,-
+Paniai,-
+Intan Jaya,-
+Puncak,-
+Puncak Jaya,-
+PAPUA PEGUNUNGAN,-
+Nduga,-
+Jayawijaya,-
+Lanny Jaya,-
+Tolikara,-
+Mamberamo Tengah,-
+Yalimo,-
+Yahukimo,-
+Pegunungan Bintang,-
+INDONESIA,71.06
